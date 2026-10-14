@@ -1,0 +1,47 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+TIPO DE LECTURA: [Cuento / Fábula / ¿Sabías qué?]
+TÍTULO: [Título atractivo de la lectura]
+CATEGORÍA CMS: [Cuentos / Fábulas / Curiosidades]
+EDAD RECOMENDADA: 6 - 10 años
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+[Escribe aquí 2 o 3 frases dinámicas que enganchen al lector. NO desvelar el final ni la solución.]
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA (200 - 300 palabras)
+----------------------------------------------------------------------
+[Párrafo 1]
+
+[IMAGEN 1: Descripción corta de la escena]
+
+[Párrafo 2]
+
+[IMAGEN 2: Descripción corta de la escena]
+
+[Párrafo 3]
+
+----------------------------------------------------------------------
+3. ESPECIFICACIONES DE IMÁGENES Y PROMPTS PARA IA
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES (800x500 px):
+  - Nombre de archivo: [ejemplo_mini_800x500.png]
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - Prompt IA: [Prompt detallado en español / inglés con estilo infantil]
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: [ejemplo_cuerpo_1.png]
+  - Ubicación CMS: Tras el Párrafo 1
+  - Prompt IA: [Prompt detallado]
+
+■ IMAGEN DE CUERPO 2 (Opcional):
+  - Nombre de archivo: [ejemplo_cuerpo_2.png]
+  - Ubicación CMS: Tras el Párrafo 2
+  - Prompt IA: [Prompt detallado]
+
+======================================================================
