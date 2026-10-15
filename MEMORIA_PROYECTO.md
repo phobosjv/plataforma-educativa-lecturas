@@ -44,6 +44,7 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
    - Imagen de cuerpo 1: `<slug>_cuerpo_1.png`
    - Imagen de cuerpo 2: `<slug>_cuerpo_2.png`
    - Las imágenes **sí se versionan** (son entregables del proyecto).
+   - **Generación**: se crean automáticamente a partir de los prompts de la sección 3 de la ficha con `tools/generar_imagenes.ps1` o el subagente `imagenes` (ver `tools/README.md`).
 
 ---
 
@@ -82,8 +83,9 @@ Cuando inicies una nueva sesión de trabajo (en este o en cualquier otro equipo)
    - Cuidar que el texto esté entre **200 y 300 palabras**.
    - Redactar una descripción de 2-3 frases atractivas para redes/vista previa **sin desvelar el final/moraleja**.
    - Incluir los prompts de imagen (estilo ilustración infantil 3D suave / acuarela, sin texto).
-4. **Guardar el Archivo**: Crear la carpeta `<seccion>/<slug>/` y dentro el archivo `<slug>.txt` (junto con las imágenes, si se generan).
-5. **Actualizar Registros**:
+4. **Guardar el Archivo**: Crear la carpeta `<seccion>/<slug>/` y dentro el archivo `<slug>.txt`.
+5. **Generar las Imágenes**: delegar en el subagente **`imagenes`** (`.opencode/agents/imagenes.md`) o ejecutar `tools\generar_imagenes.ps1 -Lectura <seccion>/<slug>` (ver `tools/README.md`). Lee los prompts de la sección 3 de la ficha y guarda los PNG en su carpeta. **Si no hay cuota/créditos libres** (código de salida `2`), dejar la imagen como *pendiente (sin cuota)* y decírselo al editor; puede generarse a mano con el mismo prompt cuando la cuota se recargue (cada 24 h).
+6. **Actualizar Registros**:
    - Tachar la tarea en el backlog (`- [x] ~~Título~~`).
    - Añadir la fila correspondiente en la tabla de la Sección 4 de esta `MEMORIA_PROYECTO.md`.
 
@@ -97,3 +99,5 @@ Cuando inicies una nueva sesión de trabajo (en este o en cualquier otro equipo)
 - **2026-10-15**: Cada lectura se organiza en su propia subcarpeta `<seccion>/<slug>/` que contiene la ficha `<slug>.txt` y sus imágenes; se elimina el prefijo de categoría en los nombres de imagen. Se unifica la convención de nombres en todos los documentos y se añade `AGENTS.md` y `.gitignore`.
 - **2026-10-15**: Registro retroactivo de las 12 lecturas ya publicadas en el CMS (`aprendeyjuega.org`): se volcó su contenido (ficha + imágenes) a su subcarpeta correspondiente y se marcaron como hechas en los backlogs. 7 de ellas no estaban en el backlog original y se añadieron ya completadas (Cenicienta y El sastrecillo valiente en Cuentos; 5 curiosidades). Se conserva la extensión real de las imágenes (`.png`/`.jpg`).
 - **2026-10-15**: Nueva regla editorial: al generar (o revisar) una **curiosidad**, buscar entre los ejercicios interactivos publicados los relacionados con el tema y proponerlos como enlaces CTA en la sección `4. ENLACES SUGERIDOS (CTA)` del `.txt` de la lectura. El enlace final lo decide y coloca el editor. Procedimiento detallado en `curiosidades/README.md`; se refleja también en `plantilla_cms.txt`, `guia_redaccion_y_estilo.md` y `AGENTS.md`.
+- **2026-10-15**: Primera lectura generada de principio a fin por el flujo nuevo: *La liebre y la tortuga* (`fabulas/la_liebre_y_la_tortuga/`), 282 palabras, con prompts de imagen y sugerencia CTA (interactivo *Cuentos clásicos*, etiquetado `liebre-y-tortuga`).
+- **2026-10-15**: **Automatización de la generación de imágenes con Nano Banana** (modelos de imagen de Google: `gemini-3.1-flash-image`, «Nano Banana 2»; alternativa económica `gemini-3.1-flash-lite-image`). Se añaden `tools/generar_imagenes.ps1` (lee los prompts de la sección 3 de la ficha, llama a la API de Google y guarda el PNG: miniatura recortada a 800x500 y cuerpo a 1200 px de ancho) y el subagente `.opencode/agents/imagenes.md`. La clave de API vive en la variable de entorno `GEMINI_API_KEY` o en un fichero `.env` no versionado (añadido a `.gitignore`); nunca se versiona ni se comparte. Si **no hay cuota/créditos libres** el script devuelve el código `2`, la imagen se marca como *pendiente (sin cuota)* y el editor puede generarla a mano con el mismo prompt; no se reintenta en bucle. Documentación completa en `tools/README.md`.

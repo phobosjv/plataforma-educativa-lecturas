@@ -13,4 +13,11 @@ desktop.ini
 .vscode/
 .idea/
 
+# --- Claves y secretos (nunca se versionan) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
 # Nota: las imágenes (.png) SÍ se versionan porque son entregables del proyecto.
