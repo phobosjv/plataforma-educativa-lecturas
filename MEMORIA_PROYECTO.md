@@ -23,9 +23,9 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 | Categoría | Carpeta | Fichero de Backlog | Total Temas | Desarrollados | Pendientes |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Cuentos** | `cuentos/` | `cuentos/backlog_cuentos.md` | 17 | 5 | 12 |
-| **Fábulas** | `fabulas/` | `fabulas/backlog_fabulas.md` | 15 | 1 | 14 |
+| **Fábulas** | `fabulas/` | `fabulas/backlog_fabulas.md` | 15 | 2 | 13 |
 | **Curiosidades** | `curiosidades/` | `curiosidades/backlog_curiosidades.md` | 20 | 6 | 14 |
-| **TOTAL** | — | — | **52** | **12** | **40** |
+| **TOTAL** | — | — | **52** | **13** | **39** |
 
 ---
 
@@ -65,6 +65,7 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 | 10 | 2026-10-10 | Cuento | El Patito Feo | `cuentos/el_patito_feo/el_patito_feo.txt` | 305 | Sí | 3 | Publicada |
 | 11 | 2026-10-11 | Curiosidad | ¿Por qué aparece el arcoíris cuando llueve y sale el sol? | `curiosidades/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol.txt` | 95 | Sí | 1 | Publicada |
 | 12 | 2026-10-12 | Cuento | El sastrecillo valiente | `cuentos/el_sastrecillo_valiente/el_sastrecillo_valiente.txt` | 263 | Sí | 2 | Publicada |
+| 13 | 2026-10-15 | Fábula | La liebre y la tortuga | `fabulas/la_liebre_y_la_tortuga/la_liebre_y_la_tortuga.txt` | 282 | Prompt | 2 (prompt) | Generada (pendiente publicación) |
 
 > Las 12 lecturas anteriores ya estaban publicadas en el CMS; se han volcado al repositorio (texto e imágenes) el 2026-10-15 como registro retroactivo. La extensión de algunas supera el rango recomendado de 200-300 palabras (publicadas así en el CMS); se anota como observación.
 

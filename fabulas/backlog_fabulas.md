@@ -8,7 +8,7 @@ Estado de lecturas:
 
 ## 🦊 Lista de Fábulas Pendientes:
 
-- [ ] La liebre y la tortuga (Esopo)
+- [x] ~~La liebre y la tortuga (Esopo)~~
 - [ ] La cigarra y la hormiga (Esopo)
 - [ ] El cuervo y la zorra (Esopo)
 - [ ] El ratón de campo y el ratón de ciudad (Esopo)

@@ -1,0 +1,63 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+TIPO DE LECTURA: Fábula
+TÍTULO: La liebre y la tortuga
+SLUG / ARCHIVO: la_liebre_y_la_tortuga
+CATEGORÍA CMS: Fábulas
+EDAD RECOMENDADA: 6 - 10 años
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+¿Quién ganaría una carrera entre la liebre más veloz del bosque y una tortuga que avanza con calma? Acompaña a estos dos animales en un desafío muy especial y descubre qué ocurre cuando la prisa se enfrenta a la constancia.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA (282 palabras)
+----------------------------------------------------------------------
+En un prado lleno de flores vivían una liebre y una tortuga. La liebre corría tan rápido como el viento y siempre se jactaba de su velocidad. La tortuga, en cambio, avanzaba muy despacio, pero nunca se rendía. A pesar de sus diferencias, las dos se conocían desde hacía tiempo.
+
+Un día, la liebre se burló de la tortuga. «¡A ese paso no llegarás nunca a ningún sitio!», le dijo entre risas. La tortuga, muy tranquila, respondió: «¿Qué te parece si hacemos una carrera hasta lo alto de la colina?». La liebre aceptó al instante, segura de que ganaría sin esfuerzo.
+
+[IMAGEN 1: Colocar tras el Párrafo 2 — La liebre se burla y la tortuga propone la carrera]
+
+Todos los animales del bosque se reunieron para ver la carrera. Al sonar la señal de salida, la liebre salió disparada y enseguida dejó atrás a su rival. Al verse con tanta ventaja, pensó que bien podía descansar un rato y se tumbó a la sombra de un árbol.
+
+La tortuga, mientras tanto, no dejó de caminar ni un solo momento. Paso a paso, lenta pero firme, fue acercándose a la meta. No miraba atrás ni se preocupaba por lo que aún le quedaba por recorrer.
+
+[IMAGEN 2: Colocar tras el Párrafo 4 — La liebre dormida y la tortuga avanzando hacia la colina]
+
+Cuando la liebre despertó de su siesta, descubrió con sorpresa que la tortuga estaba a punto de cruzar la línea final. Corrió con todas sus fuerzas, pero ya era demasiado tarde. Los animales del bosque aplaudieron a la tortuga, que había llegado la primera.
+
+La liebre comprendió entonces que ser la más rápida no sirve de nada si uno se confía y se detiene. Y la tortuga demostró que el esfuerzo constante y la humildad pueden vencer a la velocidad.
+
+Moraleja: La constancia y la humildad logran más que la prisa y la confianza excesiva.
+
+----------------------------------------------------------------------
+3. ESPECIFICACIONES DE IMÁGENES Y PROMPTS PARA IA
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES (800x500 px):
+  - Nombre de archivo: la_liebre_y_la_tortuga_mini_800x500.png
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - Prompt IA (español): Ilustración infantil estilo cuento ilustrado en 3D suave y acuarela digital colorida, apta para educación primaria, iluminación cálida, sin texto escrito en la imagen. Escena: una liebre veloz y una tortuga tranquila, frente a frente, al comienzo de una carrera en un prado soleado; árboles y flores alrededor y un camino de tierra que sube hacia una colina al fondo. Formato horizontal 800x500 px.
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: la_liebre_y_la_tortuga_cuerpo_1.png
+  - Ubicación CMS: Tras el Párrafo 2
+  - Prompt IA (español): Ilustración infantil estilo 3D suave y acuarela digital colorida, sin texto. Escena: la liebre, sonriente y presumida, se burla de la tortuga; la tortuga, serena, señala con la cabeza la cima de la colina mientras otros animales del bosque observan curiosos.
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: la_liebre_y_la_tortuga_cuerpo_2.png
+  - Ubicación CMS: Tras el Párrafo 4
+  - Prompt IA (español): Ilustración infantil estilo 3D suave y acuarela digital colorida, sin texto. Escena: la liebre dormida plácidamente bajo la sombra de un árbol y, al fondo del camino, la tortuga avanzando decidida y constante hacia la cima de la colina.
+
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- Cuentos clásicos -> https://aprendeyjuega.org/contenido/cuentos-clasicos
+
+======================================================================
