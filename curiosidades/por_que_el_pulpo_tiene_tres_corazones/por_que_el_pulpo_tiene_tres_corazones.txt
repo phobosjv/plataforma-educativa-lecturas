@@ -42,4 +42,13 @@ Encuentra aquí ejercicios sobre animales.
   - Descripción (alt): pulpo-3-corazones
   - URL en el CMS: https://aprendeyjuega.org/media/images/7fe13c1d1fcea3c7f714cbe036abc57776be5de051c40daaa49277621760d569.jpg
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- Los invertebrados -> https://aprendeyjuega.org/contenido/los-invertebrados
+- Clasificar animales: vertebrados o invertebrados -> https://aprendeyjuega.org/contenido/clasificar-animales-vertebrados-o-invertebrados
+- ¿Dónde vive cada animal? -> https://aprendeyjuega.org/contenido/donde-vive-cada-animal
+
 ======================================================================

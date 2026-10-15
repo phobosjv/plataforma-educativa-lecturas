@@ -42,4 +42,12 @@ Aprende más sobre las estaciones del año en Aprende y Juega .org.
   - Descripción (alt): Ardilla Bellota
   - URL en el CMS: https://aprendeyjuega.org/media/images/36963fcee459f549ec70d144811f74684e1fc727675f15992d5590d697750fe3.png
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- Las estaciones del año -> https://aprendeyjuega.org/contenido/las-estaciones-del-ano
+- La ruleta de las estaciones -> https://aprendeyjuega.org/contenido/la-ruleta-de-las-estaciones
+
 ======================================================================

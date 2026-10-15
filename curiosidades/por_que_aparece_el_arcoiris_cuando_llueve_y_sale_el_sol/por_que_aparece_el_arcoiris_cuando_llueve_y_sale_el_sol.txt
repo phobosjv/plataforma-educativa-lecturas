@@ -40,4 +40,12 @@ Para verlo, colócate con el Sol a tu espalda y mira hacia la lluvia. Si tienes 
   - Descripción (alt): Arcoíris
   - URL en el CMS: https://aprendeyjuega.org/media/images/b0c8d391370b039b56494f94ebbc35451a743acecaa4425ebb28894e6fc3dbbc.jpg
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- El agua: sus estados y su ciclo -> https://aprendeyjuega.org/contenido/el-agua-sus-estados-y-su-ciclo
+- Colores primarios y secundarios -> https://aprendeyjuega.org/contenido/colores-primarios-y-secundarios
+
 ======================================================================

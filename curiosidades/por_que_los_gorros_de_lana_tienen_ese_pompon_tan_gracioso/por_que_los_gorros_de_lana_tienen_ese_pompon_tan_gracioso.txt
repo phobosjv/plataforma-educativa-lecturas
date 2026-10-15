@@ -44,4 +44,12 @@ Encuentra aquí ejercicios sobre la ropa en español e inglés.
   - Descripción (alt): Marinero con Gorro de PomPom
   - URL en el CMS: https://aprendeyjuega.org/media/images/b0f44aa06e75f14d2d69bc38d06e1ae3e0318f79384b715a5f3789749b314559.jpg
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- ¿Qué me pongo hoy? -> https://aprendeyjuega.org/contenido/que-me-pongo-hoy
+- Clothes — La ropa en inglés -> https://aprendeyjuega.org/contenido/clothes-la-ropa-en-ingles
+
 ======================================================================

@@ -40,4 +40,13 @@ Descubre los ejercicios sobre el reloj y las horas en Aprende y Juega .org.
   - Descripción (alt): Reloj
   - URL en el CMS: https://aprendeyjuega.org/media/images/b3bb03ecb994a2d23e1403ebf591c0373d002d36517e354319bd1997899cfee2.png
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- El reloj -> https://aprendeyjuega.org/contenido/el-reloj
+- El reloj: las horas en punto -> https://aprendeyjuega.org/contenido/el-reloj-las-horas-en-punto
+- El reloj: horas y minutos -> https://aprendeyjuega.org/contenido/el-reloj-horas-y-minutos
+
 ======================================================================

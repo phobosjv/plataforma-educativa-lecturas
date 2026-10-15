@@ -42,4 +42,12 @@ El aire nunca está quieto: se mueve con el viento y tiene zonas calientes y fr�
   - Descripción (alt): estrellas
   - URL en el CMS: https://aprendeyjuega.org/media/images/ee4e6e5f17105517a44b93d1a3421f69de4e8781b1f65d675ee8477a3f55ef7a.jpg
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA)
+----------------------------------------------------------------------
+Sugerencias de ejercicios interactivos relacionados (el editor decide y coloca el enlace final):
+
+- El Sistema Solar -> https://aprendeyjuega.org/contenido/el-sistema-solar
+- Día y noche -> https://aprendeyjuega.org/contenido/dia-y-noche
+
 ======================================================================
