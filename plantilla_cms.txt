@@ -45,4 +45,12 @@ EDAD RECOMENDADA: 6 - 10 años
   - Ubicación CMS: Tras el Párrafo 2
   - Prompt IA: [Prompt detallado]
 
+----------------------------------------------------------------------
+4. ENLACES SUGERIDOS (CTA) - Solo si existen ejercicios interactivos relacionados
+----------------------------------------------------------------------
+[Ejercicios interactivos ya publicados que podrían enlazarse desde esta lectura
+ (aplicable sobre todo a las curiosidades). Es una SUGERENCIA para el editor;
+ el enlace final lo decide y coloca él. Formato: - [Título] -> https://aprendeyjuega.org/contenido/[slug]
+ Si no hay ninguno relacionado, escribir: Sin ejercicios interactivos relacionados.]
+
 ======================================================================

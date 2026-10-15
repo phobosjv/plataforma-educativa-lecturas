@@ -18,6 +18,7 @@ Este repositorio es un **proyecto editorial**: creación y adaptación de lectur
 - **Derechos de autor**: solo contenido de dominio público o de creación libre de derechos.
 - **Estructura**: cada lectura en su propia carpeta `<seccion>/<slug>/`, con la ficha `<slug>.txt` y sus imágenes.
 - **Imágenes**: `<slug>_mini_800x500.png`, `<slug>_cuerpo_1.png`, `<slug>_cuerpo_2.png` (misma carpeta, sin prefijo de categoría).
+- **Enlaces CTA (sobre todo en curiosidades)**: al generar una curiosidad, revisar los ejercicios interactivos publicados y proponer los relacionados en la sección `4. ENLACES SUGERIDOS (CTA)` del `.txt`. El editor decide el enlace final. Detalle en `curiosidades/README.md`.
 
 ## Flujo de ejecución
 
