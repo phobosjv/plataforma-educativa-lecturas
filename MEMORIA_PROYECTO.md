@@ -31,15 +31,19 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 
 ## 📁 3. Convenciones de Archivos y Carpetas
 
-Para asegurar orden al exportar o importar en el CMS:
-1. **Ficha de Lectura (`.txt`)**:
-   - Se guardará en la carpeta correspondiente a su sección (`cuentos/`, `fabulas/`, `curiosidades/`).
-   - Nombrado en minúsculas y sin espacios (formato *snake_case*):
-     - Ejemplos: `cuentos/los_tres_cerditos.txt`, `fabulas/la_liebre_y_la_tortuga.txt`, `curiosidades/por_que_flamencos_rosa.txt`.
-2. **Archivos de Imagen**:
-   - Miniatura destacada: `[slug]_mini_800x500.png`
-   - Imagen de cuerpo 1: `[slug]_cuerpo_1.png`
-   - Imagen de cuerpo 2: `[slug]_cuerpo_2.png`
+**Regla general:** cada lectura vive en su **propia subcarpeta** dentro de su sección, y dentro de ella van tanto la ficha `.txt` como sus imágenes.
+
+1. **Carpeta de la lectura**:
+   - Ubicación: `<seccion>/<slug>/` (ejemplo: `cuentos/los_tres_cerditos/`).
+   - El `<slug>` es el título en minúsculas, sin acentos ni signos de puntuación, con las palabras separadas por guion bajo (*snake_case*).
+2. **Ficha de Lectura (`.txt`)**:
+   - Nombre: `<slug>.txt`, guardado dentro de la carpeta de la lectura.
+   - Ejemplos: `cuentos/los_tres_cerditos/los_tres_cerditos.txt`, `fabulas/la_liebre_y_la_tortuga/la_liebre_y_la_tortuga.txt`, `curiosidades/por_que_los_flamencos_son_rosas/por_que_los_flamencos_son_rosas.txt`.
+3. **Archivos de Imagen** (en la misma carpeta de la lectura, con el `<slug>` como única base, **sin prefijo de categoría**):
+   - Miniatura destacada: `<slug>_mini_800x500.png`
+   - Imagen de cuerpo 1: `<slug>_cuerpo_1.png`
+   - Imagen de cuerpo 2: `<slug>_cuerpo_2.png`
+   - Las imágenes **sí se versionan** (son entregables del proyecto).
 
 ---
 
@@ -64,7 +68,7 @@ Cuando inicies una nueva sesión de trabajo (en este o en cualquier otro equipo)
    - Cuidar que el texto esté entre **200 y 300 palabras**.
    - Redactar una descripción de 2-3 frases atractivas para redes/vista previa **sin desvelar el final/moraleja**.
    - Incluir los prompts de imagen (estilo ilustración infantil 3D suave / acuarela, sin texto).
-4. **Guardar el Archivo**: Crear el archivo `.txt` en la carpeta temática correspondiente.
+4. **Guardar el Archivo**: Crear la carpeta `<seccion>/<slug>/` y dentro el archivo `<slug>.txt` (junto con las imágenes, si se generan).
 5. **Actualizar Registros**:
    - Tachar la tarea en el backlog (`- [x] ~~Título~~`).
    - Añadir la fila correspondiente en la tabla de la Sección 4 de esta `MEMORIA_PROYECTO.md`.
@@ -76,3 +80,4 @@ Cuando inicies una nueva sesión de trabajo (en este o en cualquier otro equipo)
 - **2026-10-14**: Creación de `.github/copilot-instructions.md` y `MEMORIA_PROYECTO.md` para persistencia contextual entre múltiples sesiones, entornos y modelos.
 - **2026-10-14**: Estandarización de nombres en *snake_case* para los ficheros `.txt` y las imágenes de cada lectura.
 - **2026-10-14**: Regla de longitud fija de 200 a 300 palabras validada para todos los ejercicios para adecuarse al tiempo de atención de 6-10 años.
+- **2026-10-15**: Cada lectura se organiza en su propia subcarpeta `<seccion>/<slug>/` que contiene la ficha `<slug>.txt` y sus imágenes; se elimina el prefijo de categoría en los nombres de imagen. Se unifica la convención de nombres en todos los documentos y se añade `AGENTS.md` y `.gitignore`.

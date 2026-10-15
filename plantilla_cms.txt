@@ -4,6 +4,7 @@ FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
 
 TIPO DE LECTURA: [Cuento / Fábula / ¿Sabías qué?]
 TÍTULO: [Título atractivo de la lectura]
+SLUG / ARCHIVO: [slug del archivo, ej. los_tres_cerditos -> cuentos/los_tres_cerditos/los_tres_cerditos.txt]
 CATEGORÍA CMS: [Cuentos / Fábulas / Curiosidades]
 EDAD RECOMENDADA: 6 - 10 años
 
@@ -17,11 +18,11 @@ EDAD RECOMENDADA: 6 - 10 años
 ----------------------------------------------------------------------
 [Párrafo 1]
 
-[IMAGEN 1: Descripción corta de la escena]
+[IMAGEN 1: Colocar tras el Párrafo 1 — descripción corta de la escena]
 
 [Párrafo 2]
 
-[IMAGEN 2: Descripción corta de la escena]
+[IMAGEN 2: Colocar tras el Párrafo 2 — descripción corta de la escena]
 
 [Párrafo 3]
 

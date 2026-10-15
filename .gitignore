@@ -1,0 +1,16 @@
+# --- Sistema operativo ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Temporales / copias de seguridad ---
+*.tmp
+*.bak
+*.swp
+~$*
+
+# --- Editores / entornos ---
+.vscode/
+.idea/
+
+# Nota: las imágenes (.png) SÍ se versionan porque son entregables del proyecto.

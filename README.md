@@ -10,20 +10,28 @@
 ```
 proyecto_lecturas/
 ├── README.md                          # Visión general y reglas del proyecto
+├── AGENTS.md                          # Instrucciones para agentes de IA (fuente de verdad: MEMORIA)
 ├── MEMORIA_PROYECTO.md                # Bitácora, memoria persistente e historial de entregas
 ├── guia_redaccion_y_estilo.md         # Pautas editoriales, formato CMS e instrucciones para imágenes
 ├── plantilla_cms.txt                  # Plantilla base en texto plano para importar al CMS
+├── .gitignore                         # Exclusiones de control de versiones
 ├── .github/
-│   └── copilot-instructions.md        # Instrucciones automáticas para agentes y sesiones
+│   └── copilot-instructions.md        # Instrucciones automáticas para GitHub Copilot
 ├── cuentos/
 │   ├── README.md                      # Instrucciones específicas de la sección Cuentos
-│   └── backlog_cuentos.md             # Lista de cuentos clásicos de dominio público
+│   ├── backlog_cuentos.md             # Lista de cuentos clásicos de dominio público
+│   └── <slug>/                        # Una carpeta por lectura
+│       ├── <slug>.txt                 # Ficha CMS de la lectura
+│       ├── <slug>_mini_800x500.png    # Miniatura / redes sociales
+│       └── <slug>_cuerpo_1.png        # Imagen de cuerpo (y _cuerpo_2.png si procede)
 ├── fabulas/
 │   ├── README.md                      # Instrucciones específicas de la sección Fábulas
-│   └── backlog_fabulas.md             # Lista de fábulas tradicionales de dominio público
+│   ├── backlog_fabulas.md             # Lista de fábulas tradicionales de dominio público
+│   └── <slug>/                        # Una carpeta por lectura (misma estructura)
 └── curiosidades/
     ├── README.md                      # Instrucciones específicas de la sección ¿Sabías qué?
-    └── backlog_curiosidades.md        # Lista de temas de ciencia, naturaleza e historia
+    ├── backlog_curiosidades.md        # Lista de temas de ciencia, naturaleza e historia
+    └── <slug>/                        # Una carpeta por lectura (misma estructura)
 ```
 
 ---
@@ -40,7 +48,7 @@ proyecto_lecturas/
 
 1. **Selección del Backlog**: Se elegirá una lectura pendiente de `cuentos/backlog_cuentos.md`, `fabulas/backlog_fabulas.md` o `curiosidades/backlog_curiosidades.md`.
 2. **Desarrollo del Contenido**: Se generará la lectura cumpliendo rigurosamente los requisitos de extensión (200-300 palabras), vocabulario e imágenes.
-3. **Entrega de Ficheros**:
-   - Fichero `.txt` listo para copiar en el CMS.
+3. **Entrega de Ficheros** (dentro de la subcarpeta `<seccion>/<slug>/` de la lectura):
+   - Fichero `<slug>.txt` listo para copiar en el CMS.
    - Prompts e imágenes en resolución 800x500 px (miniatura) y cuerpo del texto.
 4. **Actualización del Backlog y Memoria**: La lectura completada se marcará como tachada (`- [x] ~~Título~~`) en el backlog correspondiente y se registrará en `MEMORIA_PROYECTO.md`.

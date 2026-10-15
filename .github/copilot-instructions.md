@@ -35,14 +35,15 @@ Este repositorio contiene un proyecto editorial de creación y adaptación de le
   - Debe indicarse en el texto su ubicación exacta: `[IMAGEN 1: Colocar después del párrafo X]`.
 - **Estilo visual para Prompts**:
   - *Ilustración infantil estilo cuento ilustrado en 3D suave / acuarela digital colorida, apta para público de educación primaria, iluminación cálida, sin texto escrito dentro de la imagen*.
-  - Indicar siempre el nombre de archivo descriptivo sugerido (ej: `cuento_tres_cerditos_mini_800x500.png`).
+  - Indicar siempre el nombre de archivo sugerido usando el `<slug>` como base, **sin prefijo de categoría** (ej.: `los_tres_cerditos_mini_800x500.png`).
+  - Las imágenes se guardan **dentro de la carpeta de la propia lectura** (`<seccion>/<slug>/`), junto a su ficha `.txt`.
 
 ---
 
 ## 🔄 Flujo de Trabajo Operativo
 1. **Selección**: Escoger un tema pendiente (`- [ ]`) del backlog correspondiente (`cuentos/backlog_cuentos.md`, `fabulas/backlog_fabulas.md` o `curiosidades/backlog_curiosidades.md`).
 2. **Generación**: Redactar el contenido siguiendo estrictamente la estructura definida en `plantilla_cms.txt`.
-3. **Guardado**: Guardar la ficha técnica completa en formato `.txt` dentro de la subcarpeta temática que corresponda (ejemplo: `cuentos/tres_cerditos.txt`).
+3. **Guardado**: Crear la carpeta `<seccion>/<slug>/` y guardar dentro la ficha técnica completa en formato `.txt` como `<slug>.txt` (ejemplo: `cuentos/los_tres_cerditos/los_tres_cerditos.txt`), junto con las imágenes generadas.
 4. **Actualización de Estado**:
    - Tachar la lectura completada en su backlog: `- [x] ~~Título~~`.
    - Registrar la nueva entrega en `MEMORIA_PROYECTO.md`.
