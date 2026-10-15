@@ -1,0 +1,65 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/hansel-y-gretel
+TIPO DE LECTURA: Cuento
+TÍTULO: Hansel y Gretel
+SLUG / ARCHIVO: hansel_y_gretel
+CATEGORÍA CMS: Cuentos
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 381
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+Hansel y Gretel es un cuento clásico que enseña valentía, ingenio y trabajo en equipo. En esta versión adaptada para Primaria, los hermanos se enfrentan a desafíos en el bosque y descubren una misteriosa casita de dulces. Una historia cálida y emocionante que resalta la importancia de mantenerse unidos y confiar en uno mismo.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+En un pequeño pueblo junto al bosque vivían dos hermanos, Hansel y Gretel, con su padre leñador. La familia era pobre, y a veces no tenían suficiente comida. Aun así, los niños siempre se apoyaban y buscaban la manera de ayudar.
+
+Un día, la madrastra convenció al padre de llevar a los niños al bosque para recoger leña, pero en realidad quería dejarlos allí. Hansel escuchó el plan y, para no perderse, recogió piedrecitas blancas y las fue dejando en el camino mientras caminaban.
+
+[IMAGEN 1: Colocar tras el Párrafo 2 — Dejando piedras en el camino]
+
+Cuando la noche cayó, las piedrecitas brillaron con la luz de la luna y los niños pudieron regresar a casa. La madrastra se enfadó mucho y decidió intentarlo de nuevo. Esta vez, Hansel no encontró piedras y solo pudo dejar migas de pan… pero los pájaros se las comieron.
+
+Hansel y Gretel caminaron durante horas sin encontrar el camino de vuelta. Justo cuando empezaban a cansarse, descubrieron una casita hecha de chocolate, caramelos y galletas. Hambrientos, arrancaron un pedacito de la pared para probarlo.
+
+Entonces salió una anciana que parecía amable. Les invitó a pasar y les ofreció comida caliente. Pero aquella mujer era en realidad una bruja que quería atraparlos. Encerró a Hansel en una jaula y obligó a Gretel a hacer las tareas de la casa.
+
+La bruja quería que Hansel engordara para comérselo, pero él era muy listo: cada vez que ella le pedía que le mostrara un dedo para comprobar si estaba más gordito, Hansel le enseñaba un huesito de pollo. La bruja, que veía muy mal, pensaba que seguía flaco.
+
+Un día se cansó de esperar y decidió encender el horno. Ordenó a Gretel que mirara si estaba listo, pero la niña, valiente y rápida, empujó a la bruja dentro y cerró la puerta. Hansel salió de la jaula y los dos hermanos se abrazaron.
+
+[IMAGEN 2: Colocar tras el Párrafo 7 — Empujando a la bruja]
+
+En la casa encontraron cofres llenos de monedas de oro. Tomaron un poco y emprendieron el camino de vuelta. Tras caminar durante mucho tiempo, llegaron al bosque que conocían y finalmente a su hogar.
+
+El padre los recibió con lágrimas de alegría. La madrastra ya no estaba, y desde ese día vivieron juntos, felices y sin pasar hambre. Hansel y Gretel aprendieron que la valentía, la unión y la inteligencia pueden iluminar incluso los momentos más oscuros.
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: hansel_y_gretel_mini_800x500.png
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/ae95537ccb46bc65ed04cf19d7a164ae5f2bc8b8ca756ddd8b66c5efcb908843.png
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: hansel_y_gretel_cuerpo_1.png
+  - Ubicación CMS: Tras el Párrafo 2
+  - Descripción (alt): Dejando piedras en el camino
+  - URL en el CMS: https://aprendeyjuega.org/media/images/da9d31f776a82a79a567b753cdc672d0fffceb482ad6394d5461c5ed2ac58312.png
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: hansel_y_gretel_cuerpo_2.png
+  - Ubicación CMS: Tras el Párrafo 7
+  - Descripción (alt): Empujando a la bruja
+  - URL en el CMS: https://aprendeyjuega.org/media/images/855a3e7f7e52cdbe557fe2fe0a948959b90318faf9128ea167cf19c846112ebd.png
+
+======================================================================

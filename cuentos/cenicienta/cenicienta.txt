@@ -1,0 +1,75 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/cenicienta
+TIPO DE LECTURA: Cuento
+TÍTULO: Cenicienta
+SLUG / ARCHIVO: cenicienta
+CATEGORÍA CMS: Cuentos
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 394
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+En este cuento conocerás a una niña que nunca deja de soñar, aunque las cosas se pongan difíciles. Verás cómo la magia, la bondad y un momento inesperado cambian su vida para siempre. Una historia llena de brillo, emoción y esperanza, perfecta para leer antes de dormir.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+Cenicienta era una niña dulce que vivía con su madrastra y sus dos hermanastras. Ellas eran muy exigentes y siempre le pedían que limpiara, barriera y ordenara la casa. Aunque trabajaba mucho, Cenicienta nunca perdía su sonrisa ni su manera amable de tratar a todos.
+
+Un día llegó una carta muy especial del palacio: el príncipe celebraría un gran baile y todas las jóvenes del reino estaban invitadas. Las hermanastras se emocionaron tanto que pasaron horas eligiendo vestidos y peinados. Cenicienta también soñaba con ir, pero su madrastra se rió y le dijo que era imposible, que debía quedarse en casa trabajando.
+
+Cuando la casa quedó en silencio, Cenicienta se sentó junto a la chimenea, triste y cansada. De pronto, apareció una mujer luminosa con una varita brillante: era su hada madrina. Con una sonrisa cálida, le dijo que ella también merecía vivir una noche especial.
+
+[IMAGEN 1: Colocar tras el Párrafo 3 — Hada Madrina]
+
+El hada tocó una calabaza y la convirtió en un carruaje dorado. Luego transformó a unos ratoncitos en caballos y el vestido sencillo de Cenicienta en un traje precioso, lleno de destellos mágicos. En sus pies aparecieron unas zapatillas de cristal que brillaban como estrellas.
+
+—Podrás ir al baile —dijo el hada—, pero recuerda que la magia desaparecerá cuando el reloj marque la medianoche.
+
+Cenicienta llegó al palacio y todos quedaron sorprendidos por su elegancia. El príncipe la vio y enseguida quiso bailar con ella. Pasaron la noche conversando, riendo y disfrutando del baile. Cenicienta se sentía feliz como nunca.
+
+[IMAGEN 2: Colocar tras el Párrafo 6 — Baile]
+
+Pero cuando el reloj comenzó a marcar las doce campanadas, recordó las palabras del hada. Corrió hacia la salida tan rápido que una de sus zapatillas de cristal cayó en las escaleras. El príncipe la recogió y decidió que encontraría a la joven que la había perdido.
+
+Al día siguiente recorrió todo el reino, probando la zapatilla a cada muchacha. Cuando llegó a la casa de Cenicienta, las hermanastras intentaron ponérsela, pero no les encajaba. Cenicienta pidió probarla y, al hacerlo, la zapatilla encajó perfectamente.
+
+[IMAGEN 3: Colocar tras el Párrafo 8 — Cencicienta se prueba el zapato]
+
+El príncipe la reconoció enseguida. En un instante, el vestido mágico volvió a aparecer, y Cenicienta sintió que su vida estaba a punto de cambiar. Con alegría, aceptó ir al palacio. Con el tiempo se convirtió en princesa, sin perder nunca su bondad ni su manera dulce de ver el mundo.
+
+Moraleja: La amabilidad y la esperanza pueden abrir caminos que parecen imposibles.
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: cenicienta_mini_800x500.png
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/0259d09875a3c5e8106de3954435460648a7a77ed383cab014d1172351235486.png
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: cenicienta_cuerpo_1.png
+  - Ubicación CMS: Tras el Párrafo 3
+  - Descripción (alt): Hada Madrina
+  - URL en el CMS: https://aprendeyjuega.org/media/images/7cefe0bd46254f1d22b1eb9164651493b84a3e66fc154b5a7898291dcf106ec0.png
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: cenicienta_cuerpo_2.png
+  - Ubicación CMS: Tras el Párrafo 6
+  - Descripción (alt): Baile
+  - URL en el CMS: https://aprendeyjuega.org/media/images/e4b2d32d3ab7d01571c0c94e90d53d94666390ff15b18daa7378562bd9df74e7.png
+
+■ IMAGEN DE CUERPO 3:
+  - Nombre de archivo: cenicienta_cuerpo_3.png
+  - Ubicación CMS: Tras el Párrafo 8
+  - Descripción (alt): Cencicienta se prueba el zapato
+  - URL en el CMS: https://aprendeyjuega.org/media/images/8afedd21b9c8c2564e97cbc6dc56177d0389d93331ce4595da960fb8582f6965.png
+
+======================================================================

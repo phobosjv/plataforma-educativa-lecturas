@@ -1,0 +1,45 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/por-que-titilan-las-estrellas
+TIPO DE LECTURA: ¿Sabías qué?
+TÍTULO: ¿Por qué titilan las estrellas?
+SLUG / ARCHIVO: por_que_titilan_las_estrellas
+CATEGORÍA CMS: Curiosidades
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 134
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+🌟 Mira al cielo esta noche… ¡las estrellas parecen guiñarnos un ojo! 😉 Pero ojo, que no lo hacen ellas. ¿Quién crees que es el verdadero responsable de este truco de magia? 🤔 ¡Descúbrelo en el enlace! 👇
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+¡Las estrellas no parpadean de verdad! ✨ Brillan siempre igual, pero están tan, tan lejos que su luz tiene que hacer un viaje larguísimo por el espacio para llegar hasta nosotros. Al llegar a la Tierra, esa luz atraviesa el aire que rodea nuestro planeta, la atmósfera. 🌍
+
+[IMAGEN 1: Colocar tras el Párrafo 1 — estrellas]
+
+El aire nunca está quieto: se mueve con el viento y tiene zonas calientes y frías. Cada vez que la luz pasa de una zona a otra, se desvía un poquito, como si bajara por un tobogán lleno de curvas. 🛝 Por eso, desde aquí, vemos las estrellas temblar y titilar, ¡como si nos guiñaran un ojo! 😉
+
+¿Y sabes qué? Los planetas, como Venus o Júpiter, casi no parpadean porque están más cerca. Y los astronautas, desde el espacio, ¡ven las estrellas totalmente quietas! 👩‍🚀🌌
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: por_que_titilan_las_estrellas_mini_800x500.jpg
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/ee4e6e5f17105517a44b93d1a3421f69de4e8781b1f65d675ee8477a3f55ef7a.jpg
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: por_que_titilan_las_estrellas_cuerpo_1.jpg
+  - Ubicación CMS: Tras el Párrafo 1
+  - Descripción (alt): estrellas
+  - URL en el CMS: https://aprendeyjuega.org/media/images/ee4e6e5f17105517a44b93d1a3421f69de4e8781b1f65d675ee8477a3f55ef7a.jpg
+
+======================================================================

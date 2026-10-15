@@ -10,9 +10,9 @@ Estado de lecturas:
 
 - [ ] Los tres cerditos y el lobo feroz
 - [ ] Caperucita Roja y la sorpresa del bosque
-- [ ] El patito feo
+- [x] ~~El patito feo~~
 - [ ] El flautista de Hamelín
-- [ ] Hansel y Gretel
+- [x] ~~Hansel y Gretel~~
 - [ ] El enano saltarín (Rumpelstiltskin)
 - [ ] El zapatero y los duendes
 - [ ] El traje nuevo del emperador
@@ -21,5 +21,7 @@ Estado de lecturas:
 - [ ] El gato con botas
 - [ ] Jack y las habichuelas mágicas
 - [ ] Pulgarcito
-- [ ] Los músicos de Bremen
+- [x] ~~Los músicos de Bremen~~
 - [ ] Ricitos de oro y los tres osos
+- [x] ~~Cenicienta~~
+- [x] ~~El sastrecillo valiente~~

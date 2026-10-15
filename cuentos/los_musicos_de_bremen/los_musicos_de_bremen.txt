@@ -1,0 +1,78 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/los-musicos-de-bremen
+TIPO DE LECTURA: Cuento
+TÍTULO: Los músicos de Bremen
+SLUG / ARCHIVO: los_musicos_de_bremen
+CATEGORÍA CMS: Cuentos
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 352
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+“Los músicos de Bremen” cuenta la aventura de un burro, un perro, un gato y un gallo que huyen porque sus dueños ya no los quieren. Juntos descubren una casita ocupada por ladrones y, con sus ruidos y trabajo en equipo, los espantan. Así encuentran un nuevo hogar y se hacen muy buenos amigos.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+Había una vez un burro que había trabajado muchos años llevando cargas muy pesadas. Ya estaba viejo y su amo no lo quería. El burro, triste pero valiente, decidió irse a la ciudad de Bremen para convertirse en músico.
+
+[IMAGEN 1: Colocar tras el Párrafo 1 — El burro inicia su camino]
+
+En el camino encontró a un perro cansado y hambriento. Su dueño también quería deshacerse de él porque ya no podía correr como antes. El burro le dijo que se uniera a su viaje, y el perro aceptó encantado.
+
+Más adelante vieron a un gato muy asustado. Su dueña quería echarlo porque ya no cazaba ratones. El burro y el perro le ofrecieron ir con ellos, y el gato se animó a seguirlos.
+
+Por último, escucharon a un gallo que cantaba desesperado. Su dueña quería cocinarlo para la cena. Cuando el gallo oyó que los otros iban a Bremen para ser músicos, decidió acompañarlos.
+
+[IMAGEN 2: Colocar tras el Párrafo 4 — Los cuatro amigos se encuentran]
+
+Los cuatro amigos caminaron juntos hasta que se hizo de noche. Entonces vieron una casita con luz. Dentro había unos ladrones comiendo y riendo. Los animales tenían hambre y querían entrar, pero primero tenían que asustar a los ladrones.
+
+Se colocaron uno encima del otro:
+
+- el burro abajo,
+- el perro sobre el burro,
+- el gato encima del perro,
+- y el gallo arriba del todo.
+
+Cuando estuvieron listos, hicieron sus sonidos a la vez: el burro rebuznó, el perro ladró, el gato maulló y el gallo cantó. ¡Qué ruido tan enorme! Los ladrones se asustaron muchísimo y salieron corriendo.
+
+[IMAGEN 3: Colocar tras el Párrafo 7 — Animales espantan a los ladrones]
+
+Los animales entraron en la casa, comieron y se acomodaron para dormir. Pero esa noche, uno de los ladrones volvió para ver qué había pasado. Como estaba oscuro, confundió los ojos del gato con brasas y quiso encender una vela. El gato le arañó, el perro le mordió, el burro le dio una patada y el gallo le cantó en la oreja. El ladrón salió corriendo gritando que la casa estaba llena de monstruos.
+
+Los cuatro amigos se quedaron a vivir allí, felices y tranquilos. Y aunque nunca llegaron a Bremen, descubrieron que lo más importante era estar juntos y que todos tenían valor, aunque fueran mayores.
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: los_musicos_de_bremen_mini_800x500.png
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/fc834a26f4abe102d252c5c6908585e40dba282597fd54f221002e02eade49eb.png
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: los_musicos_de_bremen_cuerpo_1.png
+  - Ubicación CMS: Tras el Párrafo 1
+  - Descripción (alt): El burro inicia su camino
+  - URL en el CMS: https://aprendeyjuega.org/media/images/cfac23e71a848e4358dbcdda23b833203536d34b75c82ca67671d7ed8bc46992.png
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: los_musicos_de_bremen_cuerpo_2.png
+  - Ubicación CMS: Tras el Párrafo 4
+  - Descripción (alt): Los cuatro amigos se encuentran
+  - URL en el CMS: https://aprendeyjuega.org/media/images/805668607cb3f4e862c837d8207fde5a0791c1c43d66d87b38c5c1a797ec28f5.png
+
+■ IMAGEN DE CUERPO 3:
+  - Nombre de archivo: los_musicos_de_bremen_cuerpo_3.png
+  - Ubicación CMS: Tras el Párrafo 7
+  - Descripción (alt): Animales espantan a los ladrones
+  - URL en el CMS: https://aprendeyjuega.org/media/images/dbd0a138c5c1c4c90efe57d87ea2498ec3f6ca1f44e18a1b437025c5ad8ec125.png
+
+======================================================================

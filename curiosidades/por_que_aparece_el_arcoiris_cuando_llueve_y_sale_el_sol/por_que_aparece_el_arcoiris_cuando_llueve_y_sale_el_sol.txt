@@ -1,0 +1,43 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/por-que-aparece-el-arcoiris-cuando-llueve-y-sale-el-sol
+TIPO DE LECTURA: ¿Sabías qué?
+TÍTULO: 🌈 ¿Por qué aparece el arcoíris cuando llueve y sale el sol?
+SLUG / ARCHIVO: por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol
+CATEGORÍA CMS: Curiosidades
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 95
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+¡Mira al cielo! Cuando llueve y sale el Sol al mismo tiempo, su luz atraviesa las gotitas de agua que flotan en el aire, como si fueran miles de mini cristales. Al entrar en cada gota, la luz se dobla y rebota por dentro. Así, la luz blanca, que parece de un solo color, se separa en siete: rojo, naranja, amarillo, verde, azul, añil y violeta. ¡Es la magia de la luz!
+
+[IMAGEN 1: Colocar tras el Párrafo 1 — Arcoíris]
+
+Para verlo, colócate con el Sol a tu espalda y mira hacia la lluvia. Si tienes suerte, ¡quizá descubras un arcoíris doble! 🌦️
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol_mini_800x500.jpg
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/b0c8d391370b039b56494f94ebbc35451a743acecaa4425ebb28894e6fc3dbbc.jpg
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol_cuerpo_1.jpg
+  - Ubicación CMS: Tras el Párrafo 1
+  - Descripción (alt): Arcoíris
+  - URL en el CMS: https://aprendeyjuega.org/media/images/b0c8d391370b039b56494f94ebbc35451a743acecaa4425ebb28894e6fc3dbbc.jpg
+
+======================================================================

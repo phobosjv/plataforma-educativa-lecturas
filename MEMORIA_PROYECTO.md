@@ -22,10 +22,10 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 
 | Categoría | Carpeta | Fichero de Backlog | Total Temas | Desarrollados | Pendientes |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Cuentos** | `cuentos/` | `cuentos/backlog_cuentos.md` | 15 | 0 | 15 |
-| **Fábulas** | `fabulas/` | `fabulas/backlog_fabulas.md` | 15 | 0 | 15 |
-| **Curiosidades** | `curiosidades/` | `curiosidades/backlog_curiosidades.md` | 15 | 0 | 15 |
-| **TOTAL** | — | — | **45** | **0** | **45** |
+| **Cuentos** | `cuentos/` | `cuentos/backlog_cuentos.md` | 17 | 5 | 12 |
+| **Fábulas** | `fabulas/` | `fabulas/backlog_fabulas.md` | 15 | 1 | 14 |
+| **Curiosidades** | `curiosidades/` | `curiosidades/backlog_curiosidades.md` | 20 | 6 | 14 |
+| **TOTAL** | — | — | **52** | **12** | **40** |
 
 ---
 
@@ -53,7 +53,20 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 
 | # | Fecha | Categoría | Título de la Lectura | Fichero Generado | Palabras | Miniatura (800x500) | Imágenes Cuerpo | Estado CMS |
 | :-: | :---: | :---: | :--- | :--- | :-: | :---: | :---: | :---: |
-| — | — | — | *Ninguna lectura desarrollada aún* | — | — | — | — | Pendiente inicio |
+| 1 | 2026-09-06 | Curiosidad | ¿Por qué los gorros de lana tienen ese pompón tan gracioso? | `curiosidades/por_que_los_gorros_de_lana_tienen_ese_pompon_tan_gracioso/por_que_los_gorros_de_lana_tienen_ese_pompon_tan_gracioso.txt` | 127 | No | 1 | Publicada |
+| 2 | 2026-09-13 | Curiosidad | ¿Por qué el pulpo tiene tres corazones? | `curiosidades/por_que_el_pulpo_tiene_tres_corazones/por_que_el_pulpo_tiene_tres_corazones.txt` | 127 | No | 1 | Publicada |
+| 3 | 2026-09-20 | Curiosidad | ¿Por qué los relojes de los anuncios marcan las 10:10? | `curiosidades/por_que_los_relojes_de_los_anuncios_marcan_las_10_10/por_que_los_relojes_de_los_anuncios_marcan_las_10_10.txt` | 73 | No | 1 | Publicada |
+| 4 | 2026-09-27 | Cuento | Los músicos de Bremen | `cuentos/los_musicos_de_bremen/los_musicos_de_bremen.txt` | 352 | Sí | 3 | Publicada |
+| 5 | 2026-09-27 | Curiosidad | ¿Por qué las ardillas esconden bellotas en otoño? | `curiosidades/por_que_las_ardillas_esconden_bellotas_en_otono/por_que_las_ardillas_esconden_bellotas_en_otono.txt` | 101 | Sí | 1 | Publicada |
+| 6 | 2026-09-28 | Cuento | Cenicienta | `cuentos/cenicienta/cenicienta.txt` | 394 | Sí | 3 | Publicada |
+| 7 | 2026-10-03 | Cuento | Hansel y Gretel | `cuentos/hansel_y_gretel/hansel_y_gretel.txt` | 381 | Sí | 2 | Publicada |
+| 8 | 2026-10-04 | Curiosidad | ¿Por qué titilan las estrellas? | `curiosidades/por_que_titilan_las_estrellas/por_que_titilan_las_estrellas.txt` | 134 | Sí | 1 | Publicada |
+| 9 | 2026-10-05 | Fábula | El león y el ratón | `fabulas/el_leon_y_el_raton/el_leon_y_el_raton.txt` | 223 | Sí | 2 | Publicada |
+| 10 | 2026-10-10 | Cuento | El Patito Feo | `cuentos/el_patito_feo/el_patito_feo.txt` | 305 | Sí | 3 | Publicada |
+| 11 | 2026-10-11 | Curiosidad | ¿Por qué aparece el arcoíris cuando llueve y sale el sol? | `curiosidades/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol.txt` | 95 | Sí | 1 | Publicada |
+| 12 | 2026-10-12 | Cuento | El sastrecillo valiente | `cuentos/el_sastrecillo_valiente/el_sastrecillo_valiente.txt` | 263 | Sí | 2 | Publicada |
+
+> Las 12 lecturas anteriores ya estaban publicadas en el CMS; se han volcado al repositorio (texto e imágenes) el 2026-10-15 como registro retroactivo. La extensión de algunas supera el rango recomendado de 200-300 palabras (publicadas así en el CMS); se anota como observación.
 
 ---
 
@@ -81,3 +94,4 @@ Cuando inicies una nueva sesión de trabajo (en este o en cualquier otro equipo)
 - **2026-10-14**: Estandarización de nombres en *snake_case* para los ficheros `.txt` y las imágenes de cada lectura.
 - **2026-10-14**: Regla de longitud fija de 200 a 300 palabras validada para todos los ejercicios para adecuarse al tiempo de atención de 6-10 años.
 - **2026-10-15**: Cada lectura se organiza en su propia subcarpeta `<seccion>/<slug>/` que contiene la ficha `<slug>.txt` y sus imágenes; se elimina el prefijo de categoría en los nombres de imagen. Se unifica la convención de nombres en todos los documentos y se añade `AGENTS.md` y `.gitignore`.
+- **2026-10-15**: Registro retroactivo de las 12 lecturas ya publicadas en el CMS (`aprendeyjuega.org`): se volcó su contenido (ficha + imágenes) a su subcarpeta correspondiente y se marcaron como hechas en los backlogs. 7 de ellas no estaban en el backlog original y se añadieron ya completadas (Cenicienta y El sastrecillo valiente en Cuentos; 5 curiosidades). Se conserva la extensión real de las imágenes (`.png`/`.jpg`).

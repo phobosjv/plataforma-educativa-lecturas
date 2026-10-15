@@ -1,0 +1,91 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/el-patito-feo
+TIPO DE LECTURA: Cuento
+TÍTULO: El Patito Feo
+SLUG / ARCHIVO: el_patito_feo
+CATEGORÍA CMS: Cuentos
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 305
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+¿Alguna vez te has sentido diferente a los demás? Acompaña al Patito Feo en una emocionante aventura donde descubrirá que cada uno tiene algo especial. Un cuento clásico lleno de amistad, respeto y autoestima.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+Había una vez una mamá pata que esperaba con ilusión que sus huevos se abrieran. Un día, uno tras otro, fueron saliendo unos patitos amarillos y muy bonitos.
+
+Sin embargo, el último huevo tardó más tiempo en abrirse. Cuando por fin lo hizo, apareció un patito diferente. Era más grande, tenía las plumas grises y no se parecía a sus hermanos.
+
+[IMAGEN 1: Colocar tras el Párrafo 2 — Nace el Patito Feo]
+
+Los demás animales de la granja lo miraban con extrañeza.
+
+—¡Qué patito tan raro! —decían.
+
+El pequeño patito se sentía triste porque nadie quería jugar con él. Sus hermanos se burlaban y él pensaba que nunca sería aceptado.
+
+Un día decidió marcharse para buscar un lugar donde pudiera ser feliz.
+
+Durante su viaje conoció muchos animales. Pasó por bosques, lagos y praderas. A veces tuvo frío y hambre, pero nunca perdió la esperanza.
+
+Llegó el invierno y el patito se refugió cerca de un lago. Esperó pacientemente a que llegara la primavera.
+
+[IMAGEN 2: Colocar tras el Párrafo 8 — Viaje]
+
+Cuando el buen tiempo regresó, el patito vio unos hermosos cisnes nadando en el agua. Se acercó tímidamente y observó su reflejo.
+
+Entonces descubrió algo sorprendente: ya no era un patito gris y torpe. Se había convertido en un precioso cisne blanco.
+
+Los otros cisnes lo recibieron con cariño y lo invitaron a nadar con ellos.
+
+[IMAGEN 3: Colocar tras el Párrafo 11 — Cisne]
+
+Por primera vez, el joven cisne se sintió feliz y comprendió que ser diferente no era algo malo. Cada ser tiene su propio tiempo para crecer y mostrar lo mejor de sí mismo.
+
+Moraleja
+
+No debemos juzgar a las personas por su apariencia. Todos tenemos cualidades especiales y merecemos respeto y cariño.
+
+Preguntas de comprensión lectora
+
+- ¿Por qué el patito se sentía triste?
+- ¿Qué decidió hacer para buscar la felicidad?
+- ¿Qué descubrió al mirar su reflejo en el lago?
+- ¿Cómo lo recibieron los cisnes?
+- ¿Cuál es la enseñanza principal del cuento?
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: el_patito_feo_mini_800x500.jpg
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/2bd735c4db6aa17fd52f1fe4b35cb9a58b5866aba26bd175771afb5830e6b7fd.jpg
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: el_patito_feo_cuerpo_1.jpg
+  - Ubicación CMS: Tras el Párrafo 2
+  - Descripción (alt): Nace el Patito Feo
+  - URL en el CMS: https://aprendeyjuega.org/media/images/f1431f368abdac0fc77f767269266250a971869c6363bbf59caee4ef6d8265a6.jpg
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: el_patito_feo_cuerpo_2.jpg
+  - Ubicación CMS: Tras el Párrafo 8
+  - Descripción (alt): Viaje
+  - URL en el CMS: https://aprendeyjuega.org/media/images/b8d02e53e844760e19d280dfa20c29c373f1f063b29b8d2044295715778a5c65.jpg
+
+■ IMAGEN DE CUERPO 3:
+  - Nombre de archivo: el_patito_feo_cuerpo_3.jpg
+  - Ubicación CMS: Tras el Párrafo 11
+  - Descripción (alt): Cisne
+  - URL en el CMS: https://aprendeyjuega.org/media/images/38079a8701e9ae4e65e1672bc992d16ae82c972f43041374a8fe9855d78d0779.jpg
+
+======================================================================

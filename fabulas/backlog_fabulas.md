@@ -14,7 +14,7 @@ Estado de lecturas:
 - [ ] El ratón de campo y el ratón de ciudad (Esopo)
 - [ ] La zorra y las uvas (Esopo)
 - [ ] El pastor mentiroso y el lobo (Esopo)
-- [ ] El león y el ratón agradecido (Esopo)
+- [x] ~~El león y el ratón agradecido (Esopo)~~
 - [ ] La lechera y su cántaro (Samaniego)
 - [ ] El viento del norte y el sol (Esopo)
 - [ ] La gansa de los huevos de oro (Esopo)

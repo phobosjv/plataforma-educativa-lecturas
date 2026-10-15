@@ -1,0 +1,65 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/el-leon-y-el-raton
+TIPO DE LECTURA: Fábula
+TÍTULO: El león y el ratón
+SLUG / ARCHIVO: el_leon_y_el_raton
+CATEGORÍA CMS: Fábulas
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 223
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+En esta fábula clásica, un león poderoso descubre que incluso el más pequeño de los animales puede ser de gran ayuda. Una historia breve y perfecta para Primaria que enseña humildad, gratitud y el valor de no subestimar a los demás.
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+Un día, en la sabana, un león dormía plácidamente bajo la sombra de un árbol. Mientras descansaba, un pequeño ratón salió de su madriguera y comenzó a corretear por encima del león sin darse cuenta de dónde estaba.
+
+El león abrió los ojos de golpe y atrapó al ratón con una de sus enormes patas. El ratón, temblando de miedo, le pidió que no lo hiciera daño.
+
+—Por favor, señor león —dijo con voz temblorosa—. No quise molestarte. Si me dejas ir, algún día podría ayudarte.
+
+[IMAGEN 1: Colocar tras el Párrafo 3 — León atrapa al ratón]
+
+El león soltó una carcajada.
+—¿Tú? ¿Un ratón tan pequeño ayudando a un león como yo?
+Pero, divertido por la idea, decidió dejarlo libre.
+
+Pasaron los días y, una tarde, el león cayó en una trampa puesta por unos cazadores. Una red gruesa lo atrapó y, por más que tiraba y rugía, no podía liberarse.
+
+El ratón escuchó los rugidos y corrió hacia el lugar. Al ver al león atrapado, se acercó sin miedo y comenzó a roer la cuerda con sus pequeños dientes. Poco a poco, fue abriendo un hueco hasta que el león pudo salir.
+
+[IMAGEN 2: Colocar tras el Párrafo 6 — Ratón libera a león]
+
+—Te lo dije —sonrió el ratón—. A veces los más pequeños pueden ayudar a los más grandes.
+
+El león inclinó la cabeza agradecido. Desde ese día, entendió que nadie es tan pequeño como para no poder hacer una gran diferencia.
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: el_leon_y_el_raton_mini_800x500.png
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/52083fb092c3692268a4afa52adae6f7f304914d6efa2870ff5cab0144674e87.png
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: el_leon_y_el_raton_cuerpo_1.png
+  - Ubicación CMS: Tras el Párrafo 3
+  - Descripción (alt): León atrapa al ratón
+  - URL en el CMS: https://aprendeyjuega.org/media/images/6846746c698421b14fa8797e7189204aac6ad0b022d30680c09dc35685222087.png
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: el_leon_y_el_raton_cuerpo_2.png
+  - Ubicación CMS: Tras el Párrafo 6
+  - Descripción (alt): Ratón libera a león
+  - URL en el CMS: https://aprendeyjuega.org/media/images/5dcb2a58caaec7a03774f8a56a68a3ceae67856eaf0e5479ffc8ee2d5ca3e84d.png
+
+======================================================================

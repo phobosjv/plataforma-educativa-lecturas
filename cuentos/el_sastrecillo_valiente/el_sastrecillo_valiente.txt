@@ -1,0 +1,63 @@
+======================================================================
+FICHA DE LECTURA PARA CMS - EDUCACIÓN PRIMARIA (6-10 AÑOS)
+======================================================================
+
+ESTADO: Publicada en el CMS
+FUENTE: https://aprendeyjuega.org/contenido/el-sastrecillo-valiente
+TIPO DE LECTURA: Cuento
+TÍTULO: El sastrecillo valiente
+SLUG / ARCHIVO: el_sastrecillo_valiente
+CATEGORÍA CMS: Cuentos
+EDAD RECOMENDADA: 6 - 10 años
+PALABRAS (aprox., cuerpo sin descripción ni pies de imagen): 263
+
+----------------------------------------------------------------------
+1. DESCRIPCIÓN CORTA / INTRODUCCIÓN (Vista previa CMS & Redes Sociales)
+----------------------------------------------------------------------
+📖✨ ¿Puede alguien pequeño vencer a desafíos gigantes? Descubre la historia de El sastrecillo valiente, un cuento clásico adaptado para Educación Primaria que demuestra que la inteligencia y el ingenio pueden ser tan poderosos como la fuerza. Acompaña a este joven sastre en una aventura llena de retos, sorpresas y valiosas enseñanzas que harán reflexionar a los pequeños lectores. ✨📚
+
+----------------------------------------------------------------------
+2. TEXTO COMPLETO DE LA LECTURA
+----------------------------------------------------------------------
+Había una vez un joven sastrecillo que vivía en una pequeña aldea. Pasaba los días cosiendo ropa para sus vecinos, pero soñaba con vivir grandes aventuras. Aunque era pequeño y delgado, confiaba mucho en su inteligencia.
+
+Una mañana, mientras desayunaba pan con mermelada, varias moscas comenzaron a revolotear a su alrededor. Cansado de espantarlas, dio un golpe con un paño y, para su sorpresa, mató a siete de una sola vez. Muy orgulloso, confeccionó un cinturón y bordó en él las palabras: «Siete de un golpe».
+
+Convencido de que estaba destinado a grandes hazañas, salió de viaje. Durante el camino encontró a un enorme gigante. Al leer el cinturón, el gigante creyó que el sastrecillo había derrotado a siete hombres de un solo golpe y decidió ponerlo a prueba.
+
+Primero, el gigante apretó una piedra hasta hacer salir unas gotas de agua. Entonces, el sastrecillo sacó un trozo de queso de su bolsillo y lo apretó hasta que salió suero.
+
+[IMAGEN 1: Colocar tras el Párrafo 4 — Engaña al gigante]
+
+El gigante quedó impresionado. Después, lanzó una piedra muy lejos. El sastrecillo soltó un pequeño pájaro que llevaba escondido y este voló tan alto y tan lejos que el gigante pensó que había superado su lanzamiento.
+
+Asombrado por su ingenio, el gigante dejó marchar al joven. Con el tiempo, el sastrecillo ayudó a resolver varios problemas del reino. Gracias a su inteligencia, valentía y creatividad, ganó el respeto de todos.
+
+[IMAGEN 2: Colocar tras el Párrafo 6 — Vuelve al pueblo]
+
+Desde entonces, fue recordado como un héroe que demostró que la fuerza no siempre es lo más importante.
+
+Enseñanza: La inteligencia y la confianza en uno mismo pueden ayudar a superar grandes dificultades.
+
+----------------------------------------------------------------------
+3. IMÁGENES PUBLICADAS EN EL CMS
+----------------------------------------------------------------------
+
+■ IMAGEN MINIATURA Y REDES SOCIALES:
+  - Nombre de archivo: el_sastrecillo_valiente_mini_800x500.jpg
+  - Ubicación CMS: Imagen destacada / Thumbnail
+  - URL en el CMS: https://aprendeyjuega.org/media/images/50d710b531a7a808b038188bca9f7dcf721778ff91399472a0891d9d1ed2724f.jpg
+
+■ IMAGEN DE CUERPO 1:
+  - Nombre de archivo: el_sastrecillo_valiente_cuerpo_1.jpg
+  - Ubicación CMS: Tras el Párrafo 4
+  - Descripción (alt): Engaña al gigante
+  - URL en el CMS: https://aprendeyjuega.org/media/images/ef58ae6ff4e2191fc77646c458289e5bd74f8ad9f6ece468cbfc32740f6cf1f5.jpg
+
+■ IMAGEN DE CUERPO 2:
+  - Nombre de archivo: el_sastrecillo_valiente_cuerpo_2.jpg
+  - Ubicación CMS: Tras el Párrafo 6
+  - Descripción (alt): Vuelve al pueblo
+  - URL en el CMS: https://aprendeyjuega.org/media/images/99d667707612da61dbd31ee2207c949dfd21df834c3455f468556199b0f2880c.jpg
+
+======================================================================
