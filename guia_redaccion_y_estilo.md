@@ -38,5 +38,5 @@ Cada lectura desarrollada se entregará en un archivo con formato uniforme segú
 
 - **Estructura**: cada lectura tiene su propia carpeta `<seccion>/<slug>/` (ej.: `cuentos/los_tres_cerditos/`) que contiene la ficha `<slug>.txt` y sus imágenes.
 - **`<slug>`**: título en minúsculas, sin acentos ni signos de puntuación, palabras separadas por guion bajo.
-- **Imágenes** (misma carpeta, sin prefijo de categoría): `<slug>_mini_800x500.png`, `<slug>_cuerpo_1.png`, `<slug>_cuerpo_2.png`.
+- **Imágenes** (misma carpeta, sin prefijo de categoría): `<slug>_mini_800x500.png`, `<slug>_cuerpo_1.png`, `<slug>_cuerpo_2.png`. La extensión real puede ser `.png` o `.jpg`.
 - **Enlaces sugeridos (CTA)**: cuando existan ejercicios interactivos relacionados (típicamente en **curiosidades**), incluir en el `.txt` la sección `4. ENLACES SUGERIDOS (CTA)` con candidatos reales (título + URL). El enlace definitivo lo decide y coloca el editor; ver `curiosidades/README.md`.

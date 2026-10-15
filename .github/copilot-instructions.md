@@ -35,7 +35,7 @@ Este repositorio contiene un proyecto editorial de creación y adaptación de le
   - Debe indicarse en el texto su ubicación exacta: `[IMAGEN 1: Colocar después del párrafo X]`.
 - **Estilo visual para Prompts**:
   - *Ilustración infantil estilo cuento ilustrado en 3D suave / acuarela digital colorida, apta para público de educación primaria, iluminación cálida, sin texto escrito dentro de la imagen*.
-  - Indicar siempre el nombre de archivo sugerido usando el `<slug>` como base, **sin prefijo de categoría** (ej.: `los_tres_cerditos_mini_800x500.png`).
+  - Indicar siempre el nombre de archivo sugerido usando el `<slug>` como base, **sin prefijo de categoría** (ej.: `los_tres_cerditos_mini_800x500.png`). La extensión real puede ser `.png` o `.jpg`.
   - Las imágenes se guardan **dentro de la carpeta de la propia lectura** (`<seccion>/<slug>/`), junto a su ficha `.txt`.
 
 ---

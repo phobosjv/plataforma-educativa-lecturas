@@ -44,7 +44,8 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
    - Imagen de cuerpo 1: `<slug>_cuerpo_1.png`
    - Imagen de cuerpo 2: `<slug>_cuerpo_2.png`
    - Las imágenes **sí se versionan** (son entregables del proyecto).
-   - **Generación**: se crean automáticamente a partir de los prompts de la sección 3 de la ficha con `tools/generar_imagenes.ps1` o el subagente `imagenes` (ver `tools/README.md`).
+   - La extensión real puede ser `.png` o `.jpg` (se respeta la del archivo generado o descargado); el nombre base y las medidas son lo que no cambia.
+   - **Generación**: se crean automáticamente a partir de los prompts de la sección 3 de la ficha con `tools/generar_imagenes.ps1` o el subagente `imagenes` (ver `tools/README.md`). Si no hay cuota disponible, se generan a mano y se guardan en la carpeta con estos mismos nombres.
 
 ---
 
@@ -66,7 +67,7 @@ Este documento constituye la **memoria viva y persistente** del proyecto. Permit
 | 10 | 2026-10-10 | Cuento | El Patito Feo | `cuentos/el_patito_feo/el_patito_feo.txt` | 305 | Sí | 3 | Publicada |
 | 11 | 2026-10-11 | Curiosidad | ¿Por qué aparece el arcoíris cuando llueve y sale el sol? | `curiosidades/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol/por_que_aparece_el_arcoiris_cuando_llueve_y_sale_el_sol.txt` | 95 | Sí | 1 | Publicada |
 | 12 | 2026-10-12 | Cuento | El sastrecillo valiente | `cuentos/el_sastrecillo_valiente/el_sastrecillo_valiente.txt` | 263 | Sí | 2 | Publicada |
-| 13 | 2026-10-15 | Fábula | La liebre y la tortuga | `fabulas/la_liebre_y_la_tortuga/la_liebre_y_la_tortuga.txt` | 282 | Pendiente (sin cuota) | 2 (pendiente) | Generada (pendiente publicación) |
+| 13 | 2026-10-15 | Fábula | La liebre y la tortuga | `fabulas/la_liebre_y_la_tortuga/la_liebre_y_la_tortuga.txt` | 282 | Sí | 2 | Generada (pendiente publicación) |
 
 > Las 12 lecturas anteriores ya estaban publicadas en el CMS; se han volcado al repositorio (texto e imágenes) el 2026-10-15 como registro retroactivo. La extensión de algunas supera el rango recomendado de 200-300 palabras (publicadas así en el CMS); se anota como observación.
 

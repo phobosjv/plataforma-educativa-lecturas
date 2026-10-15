@@ -17,7 +17,7 @@ Este repositorio es un **proyecto editorial**: creación y adaptación de lectur
 - **Introducción**: 2-3 frases atractivas para CMS/redes, **sin desvelar el final, la moraleja ni la solución**.
 - **Derechos de autor**: solo contenido de dominio público o de creación libre de derechos.
 - **Estructura**: cada lectura en su propia carpeta `<seccion>/<slug>/`, con la ficha `<slug>.txt` y sus imágenes.
-- **Imágenes**: `<slug>_mini_800x500.png`, `<slug>_cuerpo_1.png`, `<slug>_cuerpo_2.png` (misma carpeta, sin prefijo de categoría).
+- **Imágenes**: `<slug>_mini_800x500.png`, `<slug>_cuerpo_1.png`, `<slug>_cuerpo_2.png` (misma carpeta, sin prefijo de categoría). La extensión real puede ser `.png` o `.jpg`; el nombre base y las medidas no cambian.
 - **Generación de imágenes**: se crean con Nano Banana (Google Gemini) mediante `tools/generar_imagenes.ps1`, que lee los prompts de la sección 3 de la ficha y guarda los PNG en su carpeta. Detalle, códigos de salida y configuración de la clave en `tools/README.md`. Si no hay cuota libre, la imagen queda *pendiente* y el editor la genera a mano con el mismo prompt.
 - **Enlaces CTA (sobre todo en curiosidades)**: al generar una curiosidad, revisar los ejercicios interactivos publicados y proponer los relacionados en la sección `4. ENLACES SUGERIDOS (CTA)` del `.txt`. El editor decide el enlace final. Detalle en `curiosidades/README.md`.
 
